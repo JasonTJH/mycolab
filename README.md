@@ -16,6 +16,6 @@
   2. Extract key frames from the video file using python's av library
   3. Combining the frames to make a more succint video
   4. Remove talking head by covering with a black rectangle (if neccessary) & repeat 2 to obtain frames again for processing
-  5. Clean up any duplicate frames and compress the frames for easier processing
+  5. Clean up any duplicate frames (with Hamming distance) and compress the frames for easier processing
   6. Outputs in both PDF and PPT formats (not perfect but good enough for simple use cases)
   7. Managed to obtain a 500 page slideshow from a 5 hr long (combined) video exam prep course in under 30 mins

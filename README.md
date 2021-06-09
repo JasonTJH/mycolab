@@ -1,7 +1,7 @@
 # My Google Colab Projects
 
 ## TopNewFollowers_Twitter features scrapping the top growing Twitter profiles via Social Bakers website.
-  ### Inspiration: Netflix series Money Heist co-stars once mentioned their surge in social media followers as they realised something big was happening...
+  ### Inspiration: Netflix series Money Heist co-stars once mentioned their surge in social media followers foretold the success of the show
   ### Objective: To find top trending & upcoming micro celebrity profiles before mainstream public via public social media data (for free!) 
   1. Scrapping the top profiles "href"s of each supported country by going thru the web server directory
   2. Using Selenium to obtain their follower counts over the past 6 months (from a javascript chart) - which is time consuming but necessary

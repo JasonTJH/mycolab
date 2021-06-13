@@ -19,3 +19,9 @@
   5. Clean up any duplicate frames (with Hamming distance) and compress the frames for easier processing
   6. Outputs in both PDF and PPT formats (not perfect but good enough for simple use cases)
   7. Managed to obtain a 500 page slideshow from a 5 hr long (combined) video exam prep course in under 30 mins
+
+Usage
+Please note that these projects are used for educational purposes and are not intended to be used commercially. We are not liable for any damages/changes done by this project.
+
+License
+This project is protected under the GNU licence. Please refer to the LICENSE.txt for more information.

@@ -20,6 +20,16 @@
   6. Outputs in both PDF and PPT formats (not perfect but good enough for simple use cases)
   7. Managed to obtain a 500 page slideshow from a 5 hr long (combined) video exam prep course in under 30 mins
 
+## USEquityML features an attempt to create alpha generating signals from historical fundamental data.
+##### Inspiration: Stock investment profit-driven project
+##### Objective: To use machine learning algos to quantify trends in stocks that show a 10-100x return within a one-year period.
+  1. Obtain and clean data using pandas dataframes
+  2. Define ML algorithms including (Decision Tree, Random Forest, K-Nearest Neighbours, Support Vector Machines, K Means & Mean Shift)
+  3. Split data for training and testing (including oversampling data to account for edge cases)
+  4. Speeding up models using (1) multiprocessing and (2) concurrent futures
+  5. Application of models to test data to backtest results
+  6. Future improvements include using tensorflow library for GPU enhancements to work with bigger datasets
+
 # Usage
 Please note that these projects are used for educational purposes and are not intended to be used commercially. We are not liable for any damages/changes done by this project.
 

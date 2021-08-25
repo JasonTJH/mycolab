@@ -1,6 +1,6 @@
 # My Google Colab Projects
 
-## TopNewFollowers_Twitter features scrapping the top growing Twitter profiles via Social Bakers website.
+## TopNewFollowers_Twitter features scrapping the top growing Twitter profiles via Social Bakers website
 ##### Inspiration: Netflix series Money Heist co-stars once mentioned surge in social media followers foretold the success of the show
 ##### Objective: To find top trending & upcoming micro celebrity profiles before mainstream public via public social media data (for free!) 
   1. Scrapping the top profiles "href"s of each supported country by going thru the web server directory
@@ -9,8 +9,8 @@
   4. Computing, categorizing & ranking profiles with various metric such as pct_change_followers, # of followers, country, industry
   5. Outputs top profiles under the set variables (e.g. highest pct_chg in follower count over 2 weeks)
   
-## Vid2Pdf features the conversion of typical education video slideshows (with or without talking heads) to proper ppt or pdf slides.
-##### Inspiration: Online video courses do not provide slides. Could not find any program/sites that provide this service.
+## Vid2Pdf features the conversion of typical education video slideshows (with or without talking heads) to proper ppt or pdf slides
+##### Inspiration: Online video courses do not provide slides. Could not find any program/sites that provide this service
 ##### Objective: To convert video slideshows to clean slides without any loss of quality (and slides!)
   1. Upload video file, if required, note the pixel dimensions of a rectangle to cover the talking head in the video
   2. Extract key frames from the video file using python's av library
@@ -20,9 +20,9 @@
   6. Outputs in both PDF and PPT formats (not perfect but good enough for simple use cases)
   7. Managed to obtain a 500 page slideshow from a 5 hr long (combined) video exam prep course in under 30 mins
 
-## USEquityML features an attempt to create alpha generating signals from historical fundamental data.
+## USEquityML features an attempt to create alpha generating signals from historical fundamental data
 ##### Inspiration: Stock investment profit-driven project
-##### Objective: To use machine learning algos to quantify trends in stocks that show a 10-100x return within a one-year period.
+##### Objective: To use machine learning algos to quantify trends in stocks that show a 10-100x return within a one-year period
   1. Obtain and clean data using pandas dataframes
   2. Define ML algorithms including (Decision Tree, Random Forest, K-Nearest Neighbours, Support Vector Machines, K Means & Mean Shift)
   3. Split data for training and testing (including oversampling data to account for edge cases)
